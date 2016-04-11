@@ -12,12 +12,21 @@ This is for people taking their first steps into nerddom
 ## Level 2
 
 * Ask a stack overflow question
-* 
+* Read [Coders at Work](http://www.codersatwork.com/)
 
 ## Level 3
 
 * Answer a Stack overflow question
-* 
+* Read [Hackers and Painters](http://www.paulgraham.com/hp.html)
+
+## Level ?
+
+* have a tech blog
+
+## Level ??
+
+* have your blog post be featured on /r/programming, hackernews or /.
+
 
 .
 .
