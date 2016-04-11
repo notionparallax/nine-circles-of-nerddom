@@ -13,11 +13,16 @@ This is for people taking their first steps into nerddom
 
 * Ask a stack overflow question
 * Read [Coders at Work](http://www.codersatwork.com/)
+* Be able to implement fizz buzz in under 30 minutes in any language
 
 ## Level 3
 
 * Answer a Stack overflow question
 * Read [Hackers and Painters](http://www.paulgraham.com/hp.html)
+
+## Level 4
+
+* Contibute to an open source project
 
 ## Level ?
 
