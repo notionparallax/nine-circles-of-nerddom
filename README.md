@@ -8,6 +8,7 @@ This is for people taking their first steps into nerddom
 * Have a [Stack Overflow](http://stackoverflow.com/) account
 * Read some [XKCD](http://xkcd.com/)
 * Read some [Coding Horror](http://blog.codinghorror.com/)
+* Have read at least one SF book
 
 ## Level 2
 
