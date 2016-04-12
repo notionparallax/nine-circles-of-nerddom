@@ -2,6 +2,12 @@
 
 I realised that my students don't have a quick way to get themselves properly immersed in _the life_. This is a quick list to try and work out what to do. I'm sure we can have all kinds of discussions about what level a thing is, but just PR to add things and then we can debate in the issues! 
 
+## bucket of things that need to be graded
+
+* Know how to change directory at the command line
+* Use a functional language
+* Add more things here and we can put them in levels later
+
 ## Level 1
 This is for people taking their first steps into nerddom
 
