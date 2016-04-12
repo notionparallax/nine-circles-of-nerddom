@@ -13,6 +13,7 @@ This is for people taking their first steps into nerddom
 ## Level 2
 
 * Ask a stack overflow question
+* Have a GitHub account
 * Read [Coders at Work](http://www.codersatwork.com/)
 * Be able to implement fizz buzz in under 30 minutes in any language
 
