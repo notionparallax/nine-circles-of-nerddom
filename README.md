@@ -45,3 +45,6 @@ This is for people taking their first steps into nerddom
 ## 13v31 9
 
 * Read all of _The joy of programming_
+
+Bonus level, get a [Knuth reward check](https://en.wikipedia.org/wiki/Knuth_reward_check)
+![a knuth reward check](https://upload.wikimedia.org/wikipedia/commons/6/63/Knuth_cod.JPG)
