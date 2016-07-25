@@ -9,20 +9,22 @@ This is for people taking their first steps into nerddom
 * Read some [Coding Horror](http://blog.codinghorror.com/)
 * Have read at least one SF book
 * Own a raspberry Pi.
+* Have a GitHub account
 * Be able to move around a file system from a Unix terminal
 
 ## Level 2
 
 * Have a [Stack Overflow](http://stackoverflow.com/) account
-* Have a GitHub account
-* Read [Coders at Work](http://www.codersatwork.com/)
 * Be able to implement [fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) in under 30 minutes in any language
 * Be able to use | and > at a Unix terminal
 * Blink an led using the raspberry Pi
 * Read an input from the raspberry Pi.
+* GET a json file and do something with it
+* Make a static website using HTML, CSS and JavaScript, host it on gh pages
 
 ## Level 3
 
+* Read [Coders at Work](http://www.codersatwork.com/)
 * Ask a stack overflow question
 * Read [Hackers and Painters](http://www.paulgraham.com/hp.html)
 
