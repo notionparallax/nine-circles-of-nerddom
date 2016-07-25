@@ -8,6 +8,8 @@ This is for people taking their first steps into nerddom
 * Read some [XKCD](http://xkcd.com/)
 * Read some [Coding Horror](http://blog.codinghorror.com/)
 * Have read at least one SF book
+* Own a raspberry Pi.
+* Be able to move around a file system from a Unix terminal
 
 ## Level 2
 
@@ -15,6 +17,9 @@ This is for people taking their first steps into nerddom
 * Have a GitHub account
 * Read [Coders at Work](http://www.codersatwork.com/)
 * Be able to implement [fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) in under 30 minutes in any language
+* Be able to use | and > at a Unix terminal
+* Blink an led using the raspberry Pi
+* Read an input from the raspberry Pi.
 
 ## Level 3
 
