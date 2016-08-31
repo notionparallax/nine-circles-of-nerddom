@@ -35,6 +35,7 @@ This is for people taking their first steps into nerddom
 ## Level 5
 
 * Contibute to an open source project
+* [Have studied some category theory](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ## Level ?
 
